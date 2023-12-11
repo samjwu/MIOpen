@@ -49,22 +49,22 @@
 #include <hip/hip_runtime_api.h>
 #endif
 
-/*
- * @defgroup convolutions
- * @defgroup pooling
- * @defgroup handle
- * @defgroup layernorm
- * @defgroup LRN
- * @defgroup batchnorm
- * @defgroup activation
- * @defgroup tensor
- * @defgroup softmax
- * @defgroup RNN
- * @defgroup fusion
- * @defgroup LossFunction
- * @defgroup TensorReduce
- * @defgroup find2
- * @defgroup sum
+/**
+ * @defgroup convolutions convolutions group
+ * @defgroup pooling pooling group
+ * @defgroup handle handle group
+ * @defgroup layernorm layernorm group
+ * @defgroup LRN LRN group
+ * @defgroup batchnorm batchnorm group
+ * @defgroup activation activation group
+ * @defgroup tensor tensor group
+ * @defgroup softmax softmax group
+ * @defgroup RNN RNN group
+ * @defgroup fusion fusion group
+ * @defgroup LossFunction LossFunction group
+ * @defgroup TensorReduce TensorReduce group
+ * @defgroup find2 find2 group
+ * @defgroup sum sum group
  *
  */
 
